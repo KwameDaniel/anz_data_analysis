@@ -1,7 +1,7 @@
-ANZ-Data-Analysis
+ANZ-Sales-Data-Analysis-and-Analytics
 ==============================
 
-Sales anaysis EDA and Predictive Analytics[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C EDA and Predictive Analytics on Sales data
+Sales anaysis and analytics by utilizing EDA, Data Segmentation, Data Visualization and Predictive Analytics on Sales data.
 
 Project Organization
 ------------
